@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "name": "Zoom",
+      "dir_name": "zoom"
+    },
+    {
+      "name": "WhatsApp",
+      "dir_name": "whatsapp"
+    }
+  ]
+}
